@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jegyzet</string>
+    <string name="title_activity_jegyzet_szerkeszto">JegyzetSzerkesztoActivity</string>
+</resources>
